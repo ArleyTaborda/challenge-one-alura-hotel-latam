@@ -1,4 +1,4 @@
-package views;
+package src.views;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
